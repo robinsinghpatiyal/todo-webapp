@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cb81c0c-ab54-4bf4-b214-b776abc0bfb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/todo/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="194">
-              <caret line="128" selection-start-line="128" selection-end-line="128" />
+              <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#span#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -216,7 +214,7 @@
     <entry file="file://$PROJECT_DIR$/todo/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
+          <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#span#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
